@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'TsangerYuYangT W02';
     src: url('TsangerYuYangT-W02.woff2') format('woff2');
-    font-display: swap;
+    font-display: swap; 
+    font-weight: Bolder;
+    font-style: normal;
 }
 

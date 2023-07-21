@@ -1,8 +1,7 @@
 @font-face {
     font-family: 'hytmr55';
     /* 字体名自定义即可 */
-/*     src: url('https://cdn.jsdelivr.net/gh/ooo-o-ooo/uPic@main/webFont/hytmr55.woff2'); */
-    src: url('https://uss.sady.vip/HEXO/hytmr55.woff2');
+    src: url('https://cdn.jsdelivr.net/gh/ooo-o-ooo/uPic@main/webFont/zhanku.woff2');
     /* 字体文件路径 */
     font-display: swap;
 }
